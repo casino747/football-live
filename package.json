@@ -1,10 +1,10 @@
 {
-  "name": "football-live เล่นบอลสด",
+  "name": "football-live",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "เล่นบอลสด คืออะไร ที่นักพนันจะต้องรู้ก่อนวางเดิมพัน",
   "keywords": [
-    "เล่นบอลสด",
+    "football-live",
     "เล่นบอลสด คืออะไร ที่นักพนันจะต้องรู้ก่อนวางเดิมพัน"
   ],
   "repository": "https://github.com/atom/football-live",
